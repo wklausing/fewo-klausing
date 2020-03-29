@@ -1,0 +1,2 @@
+header_bg: https://commons.wikimedia.org/wiki/File:Leer_-_Neue_Stra%C3%9Fe_-_Museumshafen_%2B_Rathaus_02_ies.jpg
+contacts_bg: https://commons.wikimedia.org/wiki/File:Leer_Leerort_-_Emsdeich_%2B_Jann-Berghaus-Br%C3%BCcke_02_ies.jpg
